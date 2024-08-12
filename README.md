@@ -1,3 +1,3 @@
 # Blog App
 
-URL: https://blog-app-one-mauve.vercel.app/
+Visit the app here: https://blog-app-one-mauve.vercel.app/
